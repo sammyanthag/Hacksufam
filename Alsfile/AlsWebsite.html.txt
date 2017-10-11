@@ -1,1 +1,1 @@
-hubGit Hello!
+gitHub Hello!
